@@ -1,21 +1,25 @@
-# ODK Website
+# ODK-X Website
 
-![Platform](https://img.shields.io/badge/platform-Jekyll-blue.svg) [![Ruby version](https://img.shields.io/badge/ruby-blue.svg)](https://www.ruby-lang.org/en/downloads/) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Build status](https://circleci.com/gh/opendatakit/website.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/opendatakit/website/) [![Slack status](http://slack.opendatakit.org/badge.svg)](http://slack.opendatakit.org/)
+![Platform](https://img.shields.io/badge/platform-Jekyll-blue.svg) [![Ruby version](https://img.shields.io/badge/ruby-blue.svg)](https://www.ruby-lang.org/en/downloads/) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Build status](https://circleci.com/gh/odk-x/website.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/odk-x/website/) [![Slack status](http://slack.odk-x.org/badge.svg)](http://slack.odk-x.org/)
 
-This repository is home to the [ODK homepage](https://opendatakit.org/).
+This repository is home to the [ODK-X homepage](https://odk-x.org/).
 
 ## Table of Contents
 
-* [Installing requirements](#installing-requirements)
-	* [MacOS, Linux](#macos-linux)
-	* [Windows](#windows)
-* [Running the website](#running-the-website)
-* [Contributing](#contributing)
-* [Troubleshooting](#troubleshooting)
+- [ODK-X Website](#odk-x-website)
+	- [Table of Contents](#table-of-contents)
+	- [Installing requirements](#installing-requirements)
+		- [MacOS, Linux](#macos-linux)
+		- [Windows](#windows)
+	- [Running the website](#running-the-website)
+	- [Contributing](#contributing)
+	- [Troubleshooting](#troubleshooting)
+		- [Permissions](#permissions)
+		- [Nokogiri](#nokogiri)
 
 ## Installing requirements
 
-The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) and below are the installation steps we recommend for getting a Ruby environment that will work best with the ODK website.
+The ODK-X website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) and below are the installation steps we recommend for getting a Ruby environment that will work best with the ODK-X website.
 
 ### MacOS, Linux
 
@@ -38,7 +42,7 @@ The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) an
 
 ## Running the website
 
-1. Follow the instructions in the [contribution guide](https://github.com/opendatakit/website/blob/master/CONTRIBUTING.md) to [fork](https://help.github.com/articles/fork-a-repo/) the website repository and then [clone](https://help.github.com/articles/cloning-a-repository/) your fork.
+1. Follow the instructions in the [contribution guide](https://github.com/odk-x/website/blob/master/CONTRIBUTING.md) to [fork](https://help.github.com/articles/fork-a-repo/) the website repository and then [clone](https://help.github.com/articles/cloning-a-repository/) your fork.
 
 2. Configure your project to use the correct version of Ruby.
 
@@ -76,7 +80,7 @@ bundle exec jekyll serve
 
 ## Contributing
 
-One quick way to contribute is to review the [website](https://opendatakit.org) and [file issues](https://github.com/opendatakit/website/issues) documenting the problems you see. If you would like to help fix those issues, see [the contribution guide](CONTRIBUTING.md).
+One quick way to contribute is to review the [website](https://odk-x.org) and [file issues](https://github.com/odk-x/website/issues) documenting the problems you see. If you would like to help fix those issues, see [the contribution guide](CONTRIBUTING.md).
 
 ## Troubleshooting
 

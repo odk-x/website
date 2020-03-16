@@ -8,7 +8,7 @@ guid: https://opendatakit.org/?p=8418
 
 
 ---
-**We’ve successfully migrated all the emails from Google Groups to the ODK Forum at <https://forum.opendatakit.org>. Join us there!** 
+**We’ve successfully migrated all the emails from Google Groups to the ODK Forum at <https://forum.odk-x.org>. Join us there!** 
 
 **Remind me again, why are we moving from Google Groups?** 
   
@@ -18,7 +18,7 @@ The ODK community has gotten quite large and the Google Groups mailing lists wer
   
 An account has already been created for the email address that you used to email/post on the ODK Community and ODK Developer lists. To claim your account and get access to your old emails/posts: 
 
-  * Go to <https://forum.opendatakit.org> and click on ‘Log In’ in the upper right hand of your screen.
+  * Go to <https://forum.odk-x.org> and click on ‘Log In’ in the upper right hand of your screen.
   * Click on ‘I forgot my password’ and enter your email address. Remember, it must be the same address you used to sign up for this mailing list!
   * You will receive an email with a link to reset your password. Click that link and enter your new password.
 
@@ -27,7 +27,7 @@ An account has already been created for the email address that you used to email
 Awesome! You’ve gotten through the hardest part. Now the fun begins: 
 
   * If you are not happy with the default username, change it now in Preferences. You will not be able to change it later!
-  * Take a moment to introduce yourself [here](https://forum.opendatakit.org/t/introduce-yourself-here/6671)
+  * Take a moment to introduce yourself [here](https://forum.odk-x.org/t/introduce-yourself-here/6671)
   * Read the category descriptions to see the various places you can post.
   * If you have questions or comments about this site, post it in the meta category.
 
@@ -48,4 +48,4 @@ This migration would not have been possible without these kind and thoughtful pe
   * [Robby O’Connor](https://github.com/robbyoconnor) for his Discourse dev-ops help
   * [Michael Downey](https://twitter.com/downey) for his ongoing feedback
 
-Thanks for your patience during this migration, and see you at <https://forum.opendatakit.org>!
+Thanks for your patience during this migration, and see you at <https://forum.odk-x.org>!

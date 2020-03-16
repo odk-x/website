@@ -5,7 +5,7 @@ sidebar:
   nav: "community"
 ---
 
-Open Data Kit (or ODK for short) is an open-source suite of tools that helps organizations author, collect, and manage mobile data collection solutions. Our goals are to make open-source and standards-based tools which are easy to try, easy to use, easy to modify and easy to scale. To this end, we are proud members of the  OpenRosa Consortium and active participants in the [JavaRosa](https://bitbucket.org/javarosa/javarosa/wiki/Home) project.
+ODK-X is an open-source suite of tools that helps organizations author, collect, and manage mobile data collection solutions. Our goals are to make open-source and standards-based tools which are easy to try, easy to use, easy to modify and easy to scale. To this end, we are proud members of the  OpenRosa Consortium and active participants in the [JavaRosa](https://bitbucket.org/javarosa/javarosa/wiki/Home) project.
 
 The ODK founding core developers include researchers at the University of Washingtons [Department of Computer Science and Engineering](http://www.cse.washington.edu) department and active members of [Change](http://change.washington.edu), a multi-disciplinary group at UW exploring how technology can improve the lives of under-served populations around the world.
 
@@ -150,7 +150,7 @@ Below is a list of what others have said about Open Data Kit.
 
 ## Deployments
 
-Below are a few of the deployments of ODK we know about. If you would like to add yours, post your deployment in the [ODK Forum Showcase](https://forum.opendatakit.org/c/showcase).
+Below are a few of the deployments of ODK we know about. If you would like to add yours, post your deployment in the [ODK Forum Showcase](https://forum.odk-x.org/c/showcase).
 
 If you are looking for a company to build a form or customize an ODK tool, try this [list of ODK implementation companies](//opendatakit.org/2011/09/list-of-odk-implementation-companies/).
 

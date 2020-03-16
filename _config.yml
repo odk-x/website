@@ -11,14 +11,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open Data Kit"
+title                    : "ODK-X"
 title_separator          : "-"
-name                     : &name "Open Data Kit" # &name is a YAML anchor which can be *referenced later
-description              : &description "The Open Data Kit community produces free and open-source software for collecting, managing, and using data in resource-constrained environments."
+name                     : &name "ODK-X" # &name is a YAML anchor which can be *referenced later
+description              : &description "The ODK-X community produces free and open-source software for collecting, managing, and using data in resource-constrained environments."
 tagline                  : The standard for mobile data collection
-url                      : "https://opendatakit.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://odk-x.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "opendatakit/website"
+repository               : "odk-x/website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -51,8 +51,8 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                : "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
-  secret                 : "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+  siteKey                : ""
+  secret                 : ""
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
@@ -67,16 +67,16 @@ algolia:
   powered_by             : # true (default), false
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "opendatakit"
+  username               : &twitter "odk-x"
 facebook:
-  username               : &facebook "opendatakit"
+  username               : &facebook "odk-x"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/logo.png" # Open Graph/Twitter default site image
@@ -84,16 +84,16 @@ og_image                 : "/assets/images/logo.png" # Open Graph/Twitter defaul
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
-  name                   : Open Data Kit # If the user or organization name differs from the site's name
+  name                   : ODK-X # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/OpenDataKit"
-    - "https://facebook.com/OpenDataKit"
+    - "https://twitter.com/odk-x"
+    - "https://facebook.com/odk-x"
 
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-19376020-1
+    tracking_id          : 
 
 
 # Site Author
@@ -111,7 +111,7 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "opendatakit"
+  github           : "odk-x"
   gitlab           :
   google_plus      :
   keybase          :

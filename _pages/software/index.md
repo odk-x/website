@@ -3,26 +3,58 @@ title: Software
 permalink: /software/
 ---
 
-Our community produces two suites of software: ODK and ODK-X (formerly ODK 2).
+The current and previous releases of ODK-X (formerly ODK 2) tools are hosted on GitHub in each tool's repository.
 
-Each suite contains tools that work together to collect, use, and manage data, but the two suites require different levels of technical skill, are at different stages of adoption, and are incompatible.
+The tools are generally updated every month, so stay up to date by [watching](https://forum.odk-x.org/t/9066) the [releases](https://forum.odk-x.org/c/releases) category on the forum.
 
-## ODK: Tools for the common case
-The ODK suite contains our most well-known and widely deployed tools, so we recommend you start with it!
-* For teams who need simple tools that support the most common use cases
-* Widely deployed, proven at scale, and compatible with a large [ecosystem](/community/ecosystem) (e.g., Ona, Enketo, Kobo, ELMO)
-* Includes ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, and ODK Central
+## [ODK-X Tables](#odk-x-tables)
+A mobile data curation Android app that enables users to see previously collected data and make updates using defined workflows. Tables requires ODK-X Services.
 
-Read the [ODK Docs](http://docs.opendatakit.org).
+Download [Tables releases on GitHub](https://github.com/odk-x/tables/releases)
 
-Download [ODK Tools](/software/odk).
+[Source Code](https://github.com/odk-x/tables)
 
-## ODK-X: Tools for complex workflows
-If you find that the ODK suite and accompanying ecosystem does not meet your needs, try the ODK-X suite!
-* Flexible tool suite that supports complex workflows via JavaScript customization
-* Features non-sequential navigation, bi-directional synchronization, and on-device data management
-* Includes ODK-X Application Designer, ODK-X Services, ODK-X Survey, ODK-X Tables, and ODK-X Suitcase
+## [ODK-X Survey](#odk-x-survey)
+A question based data collection Android app that uses a predefined survey specified using the XLSXConverter (part of Application Designer). Survey requires ODK-X Services.
 
-Read the [ODK-X Docs](https://docs.opendatakit.org/odk-x).
+Download [Survey releases on GitHub](https://github.com/odk-x/survey/releases)
 
-Download [ODK-X Tools](/software/odk-x).
+[Source Code](https://github.com/odk-x/survey)
+
+## [ODK-X Services](#odk-x-services)
+An Android app that handles database access, file access, and data synchronization services with an ODK-X Cloud Endpoint.
+
+Download [Services releases on GitHub](https://github.com/odk-x/services/releases)
+
+[Source Code](https://github.com/odk-x/services)
+
+## [ODK-X Application Designer](#odk-x-application-designer)
+A Windows/macOS/Linux design environment that runs in Chrome for creating, customizing, and previewing your forms that will render on Survey. 
+
+Download [Application Designer releases on GitHub](https://github.com/odk-x/app-designer/releases)
+
+[Source Code](https://github.com/odk-x/app-designer)
+
+## [ODK-X Suitcase](#odk-x-suitcase)
+A Windows/macOS/Linux tool for synchronizing data from an ODK-X Cloud Endpoint into an exported CSV file.
+
+Download [Suitcase releases on GitHub](https://github.com/odk-x/suitcase/releases)
+
+[Source Code](https://github.com/odk-x/suitcase)
+
+## [ODK-X Sync Endpoint](#odk-x-sync-endpoint)
+Sync Endpoint is a server that enables data to replicated between mobile devices. Sync Endpoint runs in Docker and provides additional micro-services for authentication management. Requires [Docker](https://docs.docker.com/install/) and [Swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/).
+
+To build the image run the following command (you could also clone the repository and build it locally): 
+```
+docker build --pull -t <orgname>/sync_endpoint https://github.com/odk-x/sync-endpoint-containers.git
+```
+
+For more detailed information and alternative Cloud Endpoints refer to the [documentation](https://docs.odk-x.org/odk-x/cloud-endpoints-intro/) 
+
+The source code for each of the Sync Endpoint services are available in these repositories:
+
+- [Sync Endpoint](https://github.com/odk-x/sync-endpoint)
+- [Sync Endpoint Containers](https://github.com/odk-x/sync-endpoint-containers)
+- [Sync Endpoint Web UI](https://github.com/odk-x/sync-endpoint-web-ui)
+- [Sync Endpoint Default Setup](https://github.com/odk-x/sync-endpoint-default-setup)
