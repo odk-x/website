@@ -67,7 +67,7 @@ algolia:
   powered_by             : # true (default), false
 
 # SEO Related
-google_site_verification : "" # Replace this with your ID, or delete
+google_site_verification : "E35J9Lq0UPcXlET3tqZniF-sw8Vxcx2fitc54UTfwlQ" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -93,7 +93,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          : "UA-161773770-1"
 
 
 # Site Author
