@@ -5,18 +5,18 @@ sidebar:
   nav: "community"
 ---
 
-The ODK-X project is governed by the Technical Steering Committee (TSC). The TSC has authority over the technical direction of the software.
+The ODK-X project is governed by the Project Management Committee (PMC). The PMC has authority over the technical direction of the software.
 
-## Technical Steering Committee
+## Project Management Committee
 
-The Technical Steering Committee is responsible for high-level technical direction of the software under its authority. This includes:
+The Project Management Committee is responsible for high-level technical direction of the software under its authority. This includes:
 
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
 * Forming appropriate Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions.
 * Technical resources (e.g., code repositories, servers)
 * Maintaining the list of Committers
 
-See [TSC Governance](https://github.com/odk-x/governance/blob/master/TSC-GOVERNANCE.md) for more.
+See [Governance](https://github.com/odk-x/governance/blob/master/PMC-GOVERNANCE.md) for more.
 
 #### Current members
 
