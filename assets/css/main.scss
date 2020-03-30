@@ -6,6 +6,9 @@ $masthead-link-color: #424242;
 $footer-background-color: #424242;
 $text-color: #424242;
 
+$background-color: #ccc;
+$body-color: #ccc;
+
 $primary-color: #339933;
 $link-color: #339933;
 $link-color-visited: #339933;
@@ -68,4 +71,8 @@ img {
   font-size: 20px;
   font-style: italic;
   font-weight: bolder;
+}
+
+.page__footer{
+  color: white;
 }

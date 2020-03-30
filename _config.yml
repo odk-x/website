@@ -7,15 +7,15 @@
 
 theme                    : "minimal-mistakes-jekyll"
 
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "ODK-X"
 title_separator          : "-"
 name                     : &name "ODK-X" # &name is a YAML anchor which can be *referenced later
-description              : &description "The ODK-X community produces free and open-source software for collecting, managing, and using data in resource-constrained environments."
-tagline                  : The standard for mobile data collection
+description              : &description "ODK-X lets you build custom apps to gather, manage, and visualize your data just as well in the field as you do in the office."
+tagline                  : Build your custom data management app
 url                      : "https://odk-x.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "odk-x/website"
