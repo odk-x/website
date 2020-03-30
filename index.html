@@ -4,37 +4,29 @@ permalink: /
 date: 2018-03-01T00:00:00-00:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/banner.jpg
   cta_label: "Get started"
   cta_url: "/software/"
-  caption: "Photo credit: **Carl Hartung**"
+  caption: ""
 excerpt: "The ODK-X community produces free and open-source software for collecting, managing, and using data in resource-constrained environments."
 intro:
-- excerpt: "**ODK-X tools help people around the world collect, manage, and use their data.** <br><br> Our users include [PATH](https://www.path.org/), [World Mosquito Program](https://www.worldmosquitoprogram.org/), the [Red Cross and Red Crescent](http://www.ifrc.org/en/news-and-media/news-stories/americas/bolivia/bolivian-red-cross-and-ifrc-visits-border-between-bolivia-and-brazil--72334/), and [many others](https://forum.odk-x.org/c/showcase). <br><br>From cold chain management to longitudal patient tracking to geographic data collection on mosquito releases, ODK-X is the standard for data collection."
+- excerpt: "**ODK-X lets you build custom apps to gather, manage, and visualize your data just as well in the field as you do in the office.** <br><br> Our users include [PATH](https://www.path.org/), [World Mosquito Program](https://www.worldmosquitoprogram.org/), the [Red Cross and Red Crescent](http://www.ifrc.org/en/news-and-media/news-stories/americas/bolivia/bolivian-red-cross-and-ifrc-visits-border-between-bolivia-and-brazil--72334/), and [many others](https://forum.odk-x.org/c/showcase). <br><br>From cold chain management to longitudinal patient tracking to geographic data collection on mosquito releases, ODK-X helps you build your custom data management app."
 feature_row:
-  - image_path: /assets/images/design.png
-    alt: "Collect the data you need to make decisions"
-    title: "Collect the data you need to make decisions"
-    excerpt: "From text to pictures to location, collect the data you need to make the right decisions. Our tools also support complex branching, answer validation, multiple languages, and offline work!"
   - image_path: /assets/images/scaling.png
-    alt: "Use out of the box or build your own"
-    title: "Use out of the box or build your own"
-    excerpt: "Use our mobile, server, and desktop tools as they are, or customize them so they support your workflows in the field, in the office, or anywhere in between."
-  - image_path: /assets/images/visualize.png
-    alt: "Easy to start and even easier to scale"
-    title: "Easy to start and even easier to scale"
-    excerpt: "Our tools are simple enough for anyone to use and robust enough for international organizations to rely on. [Get started!](/software/)"
+    alt: "Build the app you need"
+    title: "Build the app you need"
+    excerpt: "Developers and data managers can create data management applications that consist of survey forms as well as Javascript-based apps. These allow you to render a fully customizable user interface to gather, manage, and visualize data on an Android device."
 feature_row2:
   - image_path: /assets/images/network.png
-    alt: "How we do it"
-    title: "How we do it"
-    excerpt: "ODK-X is made by a community of people just like you. We value open communities and open source. We are user-focused and deployment-centric. No matter your background, talent, or skill, you can help make our community and tools better. [Join us!](/community/) <br><br> [<i class='fas fa-users'></i> Join the community](/community/){: .btn .btn--primary .btn--large}"
+    alt: "Join the community today"
+    title: "Join the community today"
+    excerpt: "ODK-X is made by a community of people just like you. We value open communities and open source. We are user-focused and deployment-centric. No matter your background, talent, or skill, you can help make our community and tools better. <br><br> [<i class='fas fa-users'></i> Join the community](/community/){: .btn .btn--primary .btn--large}"
 ---
 <!-- kramdown link button used at end of `feature_row2:excerpt` because with `url` + `btn_label` values the entire feature block becomes a link -->
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row type="left"%}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
