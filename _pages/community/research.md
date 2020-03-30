@@ -30,14 +30,9 @@ Below you will find a collection of publications about the ODK-X project over th
 	<li><a href="/assets/files/dev2012.pdf">Open Data Kit Sensors: Mobile Data Collection with Wired and Wireless Sensors</a><br />
 	Rohit Chaudhri, Waylon Brunette, Mayank Goel, Rita Sodt, Jaylen VanOrden, Michael Falcone, Gaetano Borriello<br />
 	In DEV, 2012</li>
-	<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/22366295">Evaluation of an Android-based mHealth System for Population Surveillance in Developing Countries</a><br />
-	Zeshan A. Rajput, Sam Mbugua, David Amadi, Viola Chepng'eno, Jason J. Saleem, Yaw Anokwa, Carl Hartung, Gaetano Borriello, Burke W. Mamlin, Samson K. Ndege, Martin C. Were<br />
-	In AMIA, 2011</li>
 	<li><a href="/assets/files/nsdr-tables-final.pdf">ODK Tables: Data Organization and Information Services on a Smartphone</a><br />
 	YoonSung Hong, Hilary K. Worden, Gaetano Borriello<br />
 	In NSDR, 2011</li>
-	<li><a href="http://www.seas.upenn.edu/~heinritz/ict4egra/ICT4EGRA.pdf">Using Open Data Kit for EGRA Data Collection</a><br />
-	Max Heinritz</li>
 </ul>
 
 
@@ -54,7 +49,5 @@ Below you will find a collection of publications about the ODK-X project over th
 ## Demos
 
   * [Demo: Open Data Kit 2.0 Suite](http://dl.acm.org/citation.cfm?id=2594368.2601466&coll=DL&dl=ACM&CFID=623867570&CFTOKEN=82500071) Waylon Brunette, Sam Sudar, Gaetano Borriello. In MobiSys, 2014.
-
-  * [Open Data Kit](/assets/wp-content/uploads/2010/10/ODK-Demo-Ubicomp-2009.pdf) In Ubicomp, 2009.
 
   * [A New Generation of Open Source Data Collection Tools](/assets/wp-content/uploads/2010/10/ODK-Demo-ICTD-2009.pdf) Yaw Anokwa, Carl Hartung, Adam Lerer, Brian DeRenzi, Gaetano Borriello. In ICTD, 2009.

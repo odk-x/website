@@ -13,8 +13,6 @@ community:
     children:
     - title: "Blog"
       url: /blog/
-    - title: "Ecosystem"
-      url: /community/ecosystem/
     - title: "Governance"
       url: /community/governance/
     - title: "Research"
