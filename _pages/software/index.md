@@ -50,7 +50,7 @@ To build the image run the following command (you could also clone the repositor
 docker build --pull -t <orgname>/sync_endpoint https://github.com/odk-x/sync-endpoint-containers.git
 ```
 
-For more detailed information and alternative Cloud Endpoints refer to the [documentation](https://docs.odk-x.org/odk-x/cloud-endpoints-intro/) 
+For more detailed information and alternative Cloud Endpoints refer to the [documentation](https://docs.odk-x.org/cloud-endpoints-intro/) 
 
 The source code for each of the Sync Endpoint services are available in these repositories:
 
