@@ -18,21 +18,21 @@ Hélène Martin:
 
 Waylon Brunette:
   name: "Waylon Brunette"
-  bio: "ODK Project Management Committee"
+  bio: "ODK-X Project Management Committee"
   location: "Seattle, WA"
   avatar: "/assets/images/authors/waylon.jpg"
   github: "wbrunette"
 
 Richard Anderson:
   name: "Richard Anderson"
-  bio: "Professor @ University of Washington; ODK Project Management Committee"
+  bio: "Professor @ University of Washington"
   location: "Seattle, WA"
   avatar: "/assets/images/authors/richard.jpg"
   uri: "https://www.cs.washington.edu/people/faculty/anderson"
 
 Carl Hartung:
   name: "Carl Hartung"
-  bio: "Co-founder & CTO at Libro.fm; ODK Project Management Committee"
+  bio: "Co-founder & CTO at Libro.fm"
   location: "Seattle, WA"
   avatar: "/assets/images/authors/carl.jpg"
   github: "chartung"

@@ -9,7 +9,7 @@ ODK-X is an open and welcoming community of people just like you! Our mission is
 
 We value open communities and open source and our work is user-focused and deployment-centric. See our [Mission and Values](https://github.com/odk-x/governance/blob/master/MISSION-AND-VALUES.md) and [Code of Conduct](https://github.com/odk-x/governance/blob/master/CODE-OF-CONDUCT.md) for more.
 
-We follow a meritocratic governance model where a Technical Steering Committees oversees the technical direction of ODK-X software. See [Governance](/community/governance) for more.
+We follow a meritocratic governance model where a Project Management Committee oversees the technical direction of ODK-X software. See [Governance](/community/governance) for more.
 
 No matter your background, talent, or skill, you can help make ODK-X better. Here are some ways you can get involved!
 
