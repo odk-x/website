@@ -35,19 +35,10 @@ Below you will find a collection of publications about the ODK-X project over th
 	In NSDR, 2011</li>
 </ul>
 
-
 ## Posters
 
   * [Customizing and improving medical workflows using ODK survey]() Waylon Brunette, Mitchell Sundt, Amy Ginsburg, Gaetano Borriello. In ACM DEV-4 2013.
 
-  * [Open Data Kit: Building Information Services for Developing Regions](/assets/wp-content/uploads/2010/10/ODK-Poster-ICTD-2010.pdf) Carl Hartung, Yaw Anokwa, Waylon Brunette, Adam Lerer, Clint Tseng, Gaetano Borriello. In ICTD, 2010.
-
-  * [Use of Open Source Tools to Facilitate Population Surveillance in Western Kenya](/assets/wp-content/uploads/2010/10/ODK-Poster-ICEPHI-2010.pdf) Zeshan Rajput, Martin Were, Yaw Anokwa, Sam Mbugua, Burke Mamlin, Paul Biondich, Samson Ndege. In ICEPHI, 2010.
-
-  * [Modular Open-Source Tools for Mobile Data Collection](/assets/wp-content/uploads/2010/10/ODK-Poster-mHealth-2009.pdf) Gaetano Borriello, Yaw Anokwa, Waylon Brunette, Carl Hartung, Adam Lerer. In mHealth Summit, 2009.
-
 ## Demos
 
   * [Demo: Open Data Kit 2.0 Suite](http://dl.acm.org/citation.cfm?id=2594368.2601466&coll=DL&dl=ACM&CFID=623867570&CFTOKEN=82500071) Waylon Brunette, Sam Sudar, Gaetano Borriello. In MobiSys, 2014.
-
-  * [A New Generation of Open Source Data Collection Tools](/assets/wp-content/uploads/2010/10/ODK-Demo-ICTD-2009.pdf) Yaw Anokwa, Carl Hartung, Adam Lerer, Brian DeRenzi, Gaetano Borriello. In ICTD, 2009.
