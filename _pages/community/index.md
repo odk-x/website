@@ -16,5 +16,4 @@ No matter your background, talent, or skill, you can help make ODK-X better. Her
  - [Use software](/software) and share it with your colleagues
  - [Join the forum](https://forum.odk-x.org), where most community interaction happens
  - [Check us out on GitHub](https://github.com/odk-x), which has our source code
- - Get social and follow on us on [Facebook](https://www.facebook.com/odk-x) and [Twitter](https://twitter.com/odk-x)
  - Try these [very quick ways to contribute](https://forum.odk-x.org/t/quick-ways-to-contribute/9633)
