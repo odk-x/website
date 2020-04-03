@@ -11,8 +11,6 @@ community:
   - title: Community
     url: /community/
     children:
-    - title: "Blog"
-      url: /blog/
     - title: "Governance"
       url: /community/governance/
     - title: "Research"
