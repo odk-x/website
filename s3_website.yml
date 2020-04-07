@@ -1,18 +1,18 @@
-#s3_bucket: odk-x.org
-#s3_endpoint: us-west-2
+s3_bucket: odk-x.org
+s3_endpoint: us-west-2
 
-#site: _site
+site: _site
 
-#error_document: 404.html
+error_document: 404.html
 
 max_age: 300
 gzip: true
 
-#exclude_from_upload:
-#  - s3_website.yml
-#  - CNAME
+exclude_from_upload:
+  - s3_website.yml
+  - CNAME
 
-# cloudfront_distribution_id: E1EZ24MS8LWP3O
+cloudfront_distribution_id: E14NTA48PI81AI
 
 # commented out due to bug: https://github.com/laurilehmijoki/s3_website/issues/320
 # cloudfront_distribution_config:
@@ -24,7 +24,7 @@ gzip: true
 #       - odk-x.org
 #       - www.odk-x.org
 
-# cloudfront_wildcard_invalidation: true
+cloudfront_wildcard_invalidation: true
 
 # folder redirects. executed from top to bottom.
 routing_rules:
