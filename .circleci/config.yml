@@ -1,6 +1,4 @@
 version: 2.1
-orbs:
-  aws-s3: circleci/aws-s3@1.0.15
 jobs:
   build:
     working_directory: ~/work
@@ -60,6 +58,7 @@ jobs:
                 sudo add-apt-repository --yes https://adoptopenjdk.jfrog.io/adoptopenjdk/deb/
                 sudo apt-get update
                 sudo apt-get install -y pngquant adoptopenjdk-8-hotspot
+                gem install s3_website && s3_website install
               fi
       - run:
           name: Compress images
@@ -67,16 +66,13 @@ jobs:
               if [[ "$CIRCLE_PROJECT_USERNAME" == "odkx" ]]; then \
                 find _site/assets/images -name '*.png' -exec pngquant --force --ext .png --verbose {} \;
               fi
-      - aws-s3/sync:
-          arguments: |
-            --acl public-read \
-            --cache-control "max-age=86400"
-          aws-access-key-id: AWS_ACCESS_KEY_ID
-          aws-region: AWS_DEFAULT_REGION
-          aws-secret-access-key: AWS_SECRET_ACCESS_KEY 
-          overwrite: true
-          from: _site
-          to: s3://odk-x.org
+      - run:
+          name: Push to S3
+          command: |
+              if [[ "$CIRCLE_PROJECT_USERNAME" == "opendatakit" ]]; then \
+                s3_website cfg apply
+                s3_website push
+              fi
 
 workflows:
   version: 2
@@ -89,4 +85,4 @@ workflows:
             - build
           filters:
             branches:
-              only: master
+              only: s3_website_gem
