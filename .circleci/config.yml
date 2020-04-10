@@ -70,6 +70,7 @@ jobs:
           name: Push to S3
           command: |
               if [[ "$CIRCLE_PROJECT_USERNAME" == "odk-x" ]]; then \
+                s3_website cfg apply
                 s3_website push
               fi
 
