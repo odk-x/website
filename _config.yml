@@ -12,6 +12,8 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 title                    : "ODK-X"
+masthead_title           : " "
+logo                     : "/assets/images/logo.png"
 title_separator          : "-"
 name                     : &name "ODK-X" # &name is a YAML anchor which can be *referenced later
 description              : &description "ODK-X lets you build custom apps to gather, manage, and visualize your data just as well in the field as you do in the office."
