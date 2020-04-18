@@ -26,9 +26,7 @@ jobs:
       - run:
           name: Build site
           command: bundle exec jekyll build
-      - run:
-          name: Test site
-          command: bundle exec htmlproofer _site --check-html --disable-external --allow_hash_href
+
       - save_cache:
           paths:
             - /usr/local/bundle/gems
