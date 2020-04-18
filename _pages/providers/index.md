@@ -11,7 +11,7 @@ Organizations are selected for contributing code, documentation, support, or lea
 
 * Eir Birch
 	* We offer variety of services to help your organization use ODK-X to collect, manage, and leverage data on mobile devices.
-	* View [recent activity](https://forum.odk-x.org/g/eirbirch/activity). Contact at [eirbirch.com](https://eirbirch.com).
+	* View [recent activity](https://forum.odk-x.org/u/jeff_beorse/activity/solved). Contact at [eirbirch.com](https://eirbirch.com).
 
 ### Individuals
 
