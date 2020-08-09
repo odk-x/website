@@ -46,7 +46,7 @@ The ODK-X website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) 
 
 2. Configure your project to use the correct version of Ruby.
 
-	a. Navigate to the root directory of your project. If you use Windows, replace the `cd` command with `dir`.
+	a. Navigate to the root directory of your project.
 
 	```
 	cd /MY/DEVELOPMENT/DIRECTORY/website
