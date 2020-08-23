@@ -31,9 +31,9 @@ The ODK-X website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) 
 
 2. Installing Ruby
 
-	Once `rbenv` has been installed, install the latest Ruby (currently `2.6.3`):
+	Once `rbenv` has been installed, install the latest Ruby (currently `2.7.1`):
 	```
-	rbenv install 2.6.3
+	rbenv install 2.7.1
 	```
 
 ### Windows
