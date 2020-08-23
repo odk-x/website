@@ -28,6 +28,8 @@ community:
   - title: Community
     url: /community/
     children:
+    - title: "ODK-X Forum"
+      url: /community/forum/
     - title: "Governance"
       url: /community/governance/
     - title: "Research"
