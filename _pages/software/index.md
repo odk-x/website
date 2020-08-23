@@ -1,6 +1,8 @@
 ---
 title: Software
 permalink: /software/
+sidebar:
+  nav: "software"
 ---
 
 The current and previous releases of ODK-X (formerly ODK 2) tools are hosted on GitHub in each tool's repository.
