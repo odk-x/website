@@ -57,7 +57,7 @@ reCaptcha:
   secret                 : ""
 
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : https://forum.odk-x.org/latest.rss # blank (default) uses feed.xml
 
 search                   : false # true, false (default)
 search_full_content      : false # true, false (default)
