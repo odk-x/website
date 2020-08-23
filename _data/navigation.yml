@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Documentation"
+    url: /documentation/
   - title: "Community"
     url: /community/
   - title: "Software"
