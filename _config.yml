@@ -57,7 +57,7 @@ reCaptcha:
   secret                 : ""
 
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : https://forum.odk-x.org/latest.rss # blank (default) uses feed.xml
 
 search                   : false # true, false (default)
 search_full_content      : false # true, false (default)
@@ -76,7 +76,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : &twitter "ODK_X_Tools"
 facebook:
   username               : 
   app_id                 :
@@ -88,8 +88,7 @@ social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : ODK-X # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/odk-x"
-    - "https://facebook.com/odk-x"
+    - "https://twitter.com/ODK_X_Tools"
 
 # Analytics
 analytics:

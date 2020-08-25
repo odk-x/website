@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Documentation"
+    url: /documentation/
   - title: "Community"
     url: /community/
   - title: "Software"
@@ -7,10 +9,27 @@ main:
   - title: "Help"
     url: /help/
 
+software:
+  - title: "ODK-X Tools"
+    url: /software/
+    children:
+      - title: "ODK-X Tables"
+        url: "/software/#odk-x-tables"
+      - title: "ODK-X Survey"
+        url: "/software/#odk-x-survey"
+      - title: "ODK-X Application Designer"
+        url: "/software/#odk-x-application-designer"
+      - title: "ODK-X Suitcase"
+        url: "/software/#odk-x-suitcase"
+      - title: "ODK-X Sync Endpoint"
+        url: "/software/#odk-x-sync-endpoint"
+
 community:
   - title: Community
     url: /community/
     children:
+    - title: "ODK-X Forum"
+      url: /community/forum/
     - title: "Governance"
       url: /community/governance/
     - title: "Research"
