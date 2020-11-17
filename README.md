@@ -31,9 +31,9 @@ The ODK-X website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) 
 
 2. Installing Ruby
 
-	Once `rbenv` has been installed, install the latest Ruby (currently `2.7.1`):
+	Once `rbenv` has been installed, install the latest Ruby (currently `2.7.2`):
 	```
-	rbenv install 2.7.1
+	rbenv install 2.7.2
 	```
 
 ### Windows
@@ -55,10 +55,10 @@ The ODK-X website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) 
 	b. Set the local application-specific Ruby version by using [`rbenv-local`](https://github.com/rbenv/rbenv#rbenv-local).
 
 	```
-	rbenv local 2.6.3
+	rbenv local 2.7.2
 	```
 
-	c. Verify that your project is using Ruby version `2.6.3`:
+	c. Verify that your project is using Ruby version `2.7.2`:
 	```
 	ruby -v
 	```
