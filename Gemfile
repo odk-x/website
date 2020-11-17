@@ -7,3 +7,4 @@ gem "tzinfo"
 gem "tzinfo-data"
 gem "kramdown-parser-gfm"
 gem "jemoji"
+gem 'wdm'
