@@ -78,7 +78,7 @@ naver_site_verification  :
 twitter:
   username               : &twitter "ODK_X_Tools"
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/logo.png" # Open Graph/Twitter default site image
@@ -89,6 +89,7 @@ social:
   name                   : ODK-X # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/ODK_X_Tools"
+    - "https://www.youtube.com/channel/UCxOZGaf3xUiD85q8qJaw2bQ"
 
 # Analytics
 analytics:
