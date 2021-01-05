@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/work
     docker:
-      - image: circleci/ruby:latest
+      - image: circleci/ruby:2.7.1-node
     environment:
       - JEKYLL_ENV=production
       - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
