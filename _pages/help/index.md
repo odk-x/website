@@ -11,6 +11,7 @@ sidebar:
 Our community maintains a comprehensive set of documentation for all the tools. If you need help, the docs are the best place to get help.
 
 * Read the [ODK-X Docs](https://docs.odk-x.org)
+* Watch the [ODK-X Tutorials](https://www.youtube.com/channel/UCxOZGaf3xUiD85q8qJaw2bQ)
 
 ## Forum
 
