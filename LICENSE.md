@@ -1,3 +1,4 @@
+
 This site is powered by [Jekyll](https://jekyllrb.com) and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes) which are both available under the [MIT License](https://opensource.org/licenses/MIT).
 
 All additional code on this site is licensed under the [Apache 2 License](https://opensource.org/licenses/Apache-2.0) license. All additional content of this site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
