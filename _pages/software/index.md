@@ -7,7 +7,7 @@ sidebar:
 
 The current and previous releases of ODK-X (formerly ODK 2) tools are hosted on GitHub in each tool's repository.
 
-The tools are generally updated every two months, so stay up to date by watching the [releases](https://forum.odk-x.org/c/releases) category on the forum.
+The tools are generally updated every three to four months, so stay up to date by watching the [releases](https://forum.odk-x.org/c/releases) category on the forum.
 
 ## [ODK-X Tables](#odk-x-tables)
 A mobile data curation Android app that  allows users to visualize and update existing data.
