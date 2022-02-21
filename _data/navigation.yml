@@ -17,6 +17,8 @@ software:
         url: "/software/#odk-x-tables"
       - title: "ODK-X Survey"
         url: "/software/#odk-x-survey"
+      - title: "ODK-X Services"
+        url: "/software/#odk-x-services"
       - title: "ODK-X Application Designer"
         url: "/software/#odk-x-application-designer"
       - title: "ODK-X Suitcase"
