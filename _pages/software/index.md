@@ -47,7 +47,7 @@ Download [Suitcase releases on GitHub](https://github.com/odk-x/suitcase/release
 [Source Code](https://github.com/odk-x/suitcase)
 
 ## [ODK-X Sync Endpoint](#odk-x-sync-endpoint)
-Sync Endpoint is a server that enables data to replicated between mobile devices. It communicates with your ODK-X Android applications to synchronize your data and application files.
+Sync Endpoint is a server that enables data to be replicated between mobile devices. It communicates with your ODK-X Android applications to synchronize your data and application files.
 Depending on your needs, ODK-X Sync Endpoint can either be installed in a cloud-based virtual machine, or on your own infrastructure.
 
 For more detailed information and alternative Cloud Endpoints refer to the [documentation](https://docs.odk-x.org/cloud-endpoints-intro/) 
